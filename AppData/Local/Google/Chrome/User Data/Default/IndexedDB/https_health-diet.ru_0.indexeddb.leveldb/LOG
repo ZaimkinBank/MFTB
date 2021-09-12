@@ -1,0 +1,6 @@
+2021/09/11-21:24:43.275 cc8 Creating DB C:\Users\Святослав\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_health-diet.ru_0.indexeddb.leveldb since it was missing.
+2021/09/11-21:24:43.280 cc8 Reusing MANIFEST C:\Users\Святослав\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_health-diet.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/11-21:32:48.810 13a0 Level-0 table #5: started
+2021/09/11-21:32:48.812 13a0 Level-0 table #5: 1255 bytes OK
+2021/09/11-21:32:48.814 13a0 Delete type=0 #3
+2021/09/11-21:32:48.814 13a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
